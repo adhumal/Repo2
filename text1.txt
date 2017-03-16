@@ -1,10 +1,1 @@
- Volume in drive D is Data
- Volume Serial Number is C20C-4367
-
- Directory of D:\Users\adhumal\Desktop\MyProject
-
-03/16/2017  03:00 PM    <DIR>          .
-03/16/2017  03:00 PM    <DIR>          ..
-03/16/2017  03:00 PM                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  246,243,078,144 bytes free
+ hi
